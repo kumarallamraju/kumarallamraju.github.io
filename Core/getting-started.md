@@ -15,6 +15,8 @@ Let's start with Azure Docs [Home Page](https://docs.microsoft.com/en-us/azure/?
 
 <img src="./images/azure-regions.jpg">
 
+<a href="#"><img src="./images/azure-regions.jpg" /></a>
+
 **Availability Zones** are physically separate datacenters within an Azure region. Each availability zone is made up of one or more datacenters equipped with independent power, cooling, and networking. An availability zone is set up to be an isolation boundary. If one zone goes down, the other continues working. Availability zones are connected through high-speed, private fiber-optic networks. Pls refer to the [Azure Availability Zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-region) map
 
 <img src="./images/azure-azs.jpg" width="650" height="350" />
