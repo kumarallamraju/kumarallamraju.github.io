@@ -13,12 +13,12 @@ Let's start with Azure Docs [Home Page](Azure Docs Main Page https://docs.micros
 ####Region: 
 - is a geographical area on the planet that contains at least one but potentially multiple datacenters that are nearby and networked together with a low-latency network. Pls refer to [Azure Regions map](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 
-<img :src="$withBase('/images/azure-regions.jpg')">
+<img src="./images/azure-regions.jpg">
 
 ####Availability Zones
 - are physically separate datacenters within an Azure region. Each availability zone is made up of one or more datacenters equipped with independent power, cooling, and networking. An availability zone is set up to be an isolation boundary. If one zone goes down, the other continues working. Availability zones are connected through high-speed, private fiber-optic networks. 
 
-<img :src="$withBase('/images/azure-azs.jpg')">
+<img src="./images/azure-azs.jpg" />
 
 
 
