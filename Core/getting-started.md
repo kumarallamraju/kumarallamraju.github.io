@@ -10,7 +10,7 @@ Let's start with Azure Docs [Home Page](Azure Docs Main Page https://docs.micros
 
 ##**Azure Regions and Availability Zones**
 
-**Region:** is a geographical area on the planet that contains at least one but potentially multiple datacenters that are nearby and networked together with a low-latency network. Pls refer to [Azure Regions map](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
+**Region:** is a geographical area on the planet that contains at least one but potentially multiple datacenters that are nearby and networked together with a low-latency network. Pls refer to [Azure Regions map](https://azure.microsoft.com/en-us/global-infrastructure/geographies/){:target="_blank"}
 
 <img src="./images/azure-regions.jpg">
 
